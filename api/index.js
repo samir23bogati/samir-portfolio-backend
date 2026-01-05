@@ -2,7 +2,7 @@ import express from "express";
 import mongoose from "mongoose";
 import cors from "cors";
 import dotenv from "dotenv";
-import blogRoutes from "../routes/blogRoutes.js";
+import blogRoutes from "../routes/blogroutes.js";
 import path from "path";
 
 dotenv.config();
